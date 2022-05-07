@@ -8,5 +8,3 @@ eureka:
     hostname: localhost
 
 internal-communication-key: 12345
-internal-communication-header: X-internal-communication-key
-auth-client-email-header: X-auth-client-email
